@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 845f4d57da3867f4190f2b76a987c104
+timeCreated: 1503478355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Academy Italic
+  fontNames:
+  - Space Ranger Academy Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

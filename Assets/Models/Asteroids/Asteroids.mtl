@@ -1,0 +1,14 @@
+# Blender MTL File: 'BSwap_LPStones_01.blend'
+# Material Count: 1
+
+newmtl StonesMat_01
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Olli\Desktop\ProcStoneModels\Textures\Stones_01_Atlas_Diffuse_01.png
+map_Bump C:\\Users\\Olli\\Desktop\\ProcStoneModels\\Textures\\Stones_01_Atlas_Normal_02.png
+map_Ks C:\\Users\\Olli\\Desktop\\ProcStoneModels\\Textures\\Stones_01_Atlas_Diffuse_01.png

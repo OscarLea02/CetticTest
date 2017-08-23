@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 965 Express Chipset Family (ID=0x2a02)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   8.15.10.1930
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oz\Desktop\Unity\CetticTest\CetticTest_32Bit_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 59Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.409225 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1100 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.851927 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.672009 ms (FindLiveObjects: 0.082488 ms CreateObjectMapping: 0.034645 ms MarkObjects: 0.430591 ms  DeleteObjects: 0.113284 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.160893 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 1.275278 ms (FindLiveObjects: 0.111085 ms CreateObjectMapping: 0.060491 ms MarkObjects: 1.029461 ms  DeleteObjects: 0.065991 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.934089 ms
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 8.560695 ms (FindLiveObjects: 0.089637 ms CreateObjectMapping: 0.041794 ms MarkObjects: 0.463587 ms  DeleteObjects: 7.955227 ms)
+

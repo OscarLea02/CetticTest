@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d44555f09b84f114b9c365fde53fdb9e
+timeCreated: 1503478356
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger
+  fontNames:
+  - Space Ranger
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 823ceb271b790dd43850e60c234b3ffa
+timeCreated: 1503478355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Condensed Italic
+  fontNames:
+  - Space Ranger Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

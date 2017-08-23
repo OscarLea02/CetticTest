@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1e3f9544fe90b3246a46abc988d0ae4b
+timeCreated: 1503478354
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Laser
+  fontNames:
+  - Space Ranger Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
